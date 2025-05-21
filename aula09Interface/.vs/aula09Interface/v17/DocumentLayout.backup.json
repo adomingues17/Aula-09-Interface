@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\impacta\\4 cSharp\\9 aulaNove\\aula09Interface\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C7EB75C-1DDE-48F7-A2E2-DB8815A2A3D8}|aula09\\aula09.csproj|d:\\impacta\\4 csharp\\9 aulanove\\aula09interface\\aula09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C7EB75C-1DDE-48F7-A2E2-DB8815A2A3D8}|aula09\\aula09.csproj|solutionrelative:aula09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C7EB75C-1DDE-48F7-A2E2-DB8815A2A3D8}|aula09\\aula09.csproj|d:\\impacta\\4 csharp\\9 aulanove\\aula09interface\\aula09\\services\\locacaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C7EB75C-1DDE-48F7-A2E2-DB8815A2A3D8}|aula09\\aula09.csproj|solutionrelative:aula09\\services\\locacaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C7EB75C-1DDE-48F7-A2E2-DB8815A2A3D8}|aula09\\aula09.csproj|d:\\impacta\\4 csharp\\9 aulanove\\aula09interface\\aula09\\models\\revista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C7EB75C-1DDE-48F7-A2E2-DB8815A2A3D8}|aula09\\aula09.csproj|solutionrelative:aula09\\models\\revista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C7EB75C-1DDE-48F7-A2E2-DB8815A2A3D8}|aula09\\aula09.csproj|d:\\impacta\\4 csharp\\9 aulanove\\aula09interface\\aula09\\models\\ilocavel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C7EB75C-1DDE-48F7-A2E2-DB8815A2A3D8}|aula09\\aula09.csproj|solutionrelative:aula09\\models\\ilocavel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C7EB75C-1DDE-48F7-A2E2-DB8815A2A3D8}|aula09\\aula09.csproj|d:\\impacta\\4 csharp\\9 aulanove\\aula09interface\\aula09\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C7EB75C-1DDE-48F7-A2E2-DB8815A2A3D8}|aula09\\aula09.csproj|solutionrelative:aula09\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C7EB75C-1DDE-48F7-A2E2-DB8815A2A3D8}|aula09\\aula09.csproj|d:\\impacta\\4 csharp\\9 aulanove\\aula09interface\\aula09\\models\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C7EB75C-1DDE-48F7-A2E2-DB8815A2A3D8}|aula09\\aula09.csproj|solutionrelative:aula09\\models\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C7EB75C-1DDE-48F7-A2E2-DB8815A2A3D8}|aula09\\aula09.csproj|d:\\impacta\\4 csharp\\9 aulanove\\aula09interface\\aula09\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C7EB75C-1DDE-48F7-A2E2-DB8815A2A3D8}|aula09\\aula09.csproj|solutionrelative:aula09\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Revista.cs",
+              "DocumentMoniker": "D:\\impacta\\4 cSharp\\9 aulaNove\\aula09Interface\\aula09\\Models\\Revista.cs",
+              "RelativeDocumentMoniker": "aula09\\Models\\Revista.cs",
+              "ToolTip": "D:\\impacta\\4 cSharp\\9 aulaNove\\aula09Interface\\aula09\\Models\\Revista.cs",
+              "RelativeToolTip": "aula09\\Models\\Revista.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T23:40:49.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LocacaoService.cs",
+              "DocumentMoniker": "D:\\impacta\\4 cSharp\\9 aulaNove\\aula09Interface\\aula09\\Services\\LocacaoService.cs",
+              "RelativeDocumentMoniker": "aula09\\Services\\LocacaoService.cs",
+              "ToolTip": "D:\\impacta\\4 cSharp\\9 aulaNove\\aula09Interface\\aula09\\Services\\LocacaoService.cs",
+              "RelativeToolTip": "aula09\\Services\\LocacaoService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T22:53:54.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "D:\\impacta\\4 cSharp\\9 aulaNove\\aula09Interface\\aula09\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "aula09\\Models\\Cliente.cs",
+              "ToolTip": "D:\\impacta\\4 cSharp\\9 aulaNove\\aula09Interface\\aula09\\Models\\Cliente.cs",
+              "RelativeToolTip": "aula09\\Models\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T22:52:43.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Livro.cs",
+              "DocumentMoniker": "D:\\impacta\\4 cSharp\\9 aulaNove\\aula09Interface\\aula09\\Models\\Livro.cs",
+              "RelativeDocumentMoniker": "aula09\\Models\\Livro.cs",
+              "ToolTip": "D:\\impacta\\4 cSharp\\9 aulaNove\\aula09Interface\\aula09\\Models\\Livro.cs",
+              "RelativeToolTip": "aula09\\Models\\Livro.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABUAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T22:45:23.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Item.cs",
+              "DocumentMoniker": "D:\\impacta\\4 cSharp\\9 aulaNove\\aula09Interface\\aula09\\Models\\Item.cs",
+              "RelativeDocumentMoniker": "aula09\\Models\\Item.cs",
+              "ToolTip": "D:\\impacta\\4 cSharp\\9 aulaNove\\aula09Interface\\aula09\\Models\\Item.cs",
+              "RelativeToolTip": "aula09\\Models\\Item.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T22:29:48.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ILocavel.cs",
+              "DocumentMoniker": "D:\\impacta\\4 cSharp\\9 aulaNove\\aula09Interface\\aula09\\Models\\ILocavel.cs",
+              "RelativeDocumentMoniker": "aula09\\Models\\ILocavel.cs",
+              "ToolTip": "D:\\impacta\\4 cSharp\\9 aulaNove\\aula09Interface\\aula09\\Models\\ILocavel.cs",
+              "RelativeToolTip": "aula09\\Models\\ILocavel.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAwAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T22:25:51.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\impacta\\4 cSharp\\9 aulaNove\\aula09Interface\\aula09\\Program.cs",
+              "RelativeDocumentMoniker": "aula09\\Program.cs",
+              "ToolTip": "D:\\impacta\\4 cSharp\\9 aulaNove\\aula09Interface\\aula09\\Program.cs*",
+              "RelativeToolTip": "aula09\\Program.cs*",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABIAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T22:21:41.88Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

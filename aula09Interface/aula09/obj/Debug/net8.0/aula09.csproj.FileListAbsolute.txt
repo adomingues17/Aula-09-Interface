@@ -1,0 +1,14 @@
+D:\impacta\4 cSharp\9 aulaNove\aula09Interface\aula09\obj\Debug\net8.0\aula09.GeneratedMSBuildEditorConfig.editorconfig
+D:\impacta\4 cSharp\9 aulaNove\aula09Interface\aula09\obj\Debug\net8.0\aula09.AssemblyInfoInputs.cache
+D:\impacta\4 cSharp\9 aulaNove\aula09Interface\aula09\obj\Debug\net8.0\aula09.AssemblyInfo.cs
+D:\impacta\4 cSharp\9 aulaNove\aula09Interface\aula09\obj\Debug\net8.0\aula09.csproj.CoreCompileInputs.cache
+D:\impacta\4 cSharp\9 aulaNove\aula09Interface\aula09\bin\Debug\net8.0\aula09.exe
+D:\impacta\4 cSharp\9 aulaNove\aula09Interface\aula09\bin\Debug\net8.0\aula09.deps.json
+D:\impacta\4 cSharp\9 aulaNove\aula09Interface\aula09\bin\Debug\net8.0\aula09.runtimeconfig.json
+D:\impacta\4 cSharp\9 aulaNove\aula09Interface\aula09\bin\Debug\net8.0\aula09.dll
+D:\impacta\4 cSharp\9 aulaNove\aula09Interface\aula09\bin\Debug\net8.0\aula09.pdb
+D:\impacta\4 cSharp\9 aulaNove\aula09Interface\aula09\obj\Debug\net8.0\aula09.dll
+D:\impacta\4 cSharp\9 aulaNove\aula09Interface\aula09\obj\Debug\net8.0\refint\aula09.dll
+D:\impacta\4 cSharp\9 aulaNove\aula09Interface\aula09\obj\Debug\net8.0\aula09.pdb
+D:\impacta\4 cSharp\9 aulaNove\aula09Interface\aula09\obj\Debug\net8.0\aula09.genruntimeconfig.cache
+D:\impacta\4 cSharp\9 aulaNove\aula09Interface\aula09\obj\Debug\net8.0\ref\aula09.dll
